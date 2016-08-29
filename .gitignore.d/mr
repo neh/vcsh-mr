@@ -6,5 +6,5 @@
 !.config/mr/enabled
 !.config/mr/enabled/*
 !.gitignore.d
-!.gitignore.d/mr
+!.gitignore.d/*
 !.mrconfig
