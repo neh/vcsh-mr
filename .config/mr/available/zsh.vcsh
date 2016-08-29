@@ -1,0 +1,5 @@
+[$HOME/.config/vcsh/repo.d/zsh.git]
+checkout = vcsh clone 'git@github.com:neh/vcsh-zsh' 'zsh'
+
+[$HOME/.config/vcsh/repo.d/oh-my-zsh.git]
+checkout = VCSH_BASE=$HOME/.oh-my-zsh vcsh clone 'git@github.com:neh/oh-my-zsh' 'oh-my-zsh'
