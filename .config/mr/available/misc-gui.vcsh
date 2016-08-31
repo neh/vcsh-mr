@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/misc-gui.git]
+checkout = vcsh clone 'git@github.com:neh/vcsh-misc-gui' 'misc-gui'
